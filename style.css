@@ -1,0 +1,371 @@
+/* CSS Document */
+
+body
+{
+margin:0px;
+padding:0px;
+}
+
+/*Header Portion Begin*/
+
+#wrapper
+{
+width:909px;
+height:auto;
+margin:0 auto;
+position:relative;
+}
+#mainarea
+{
+width:841px;
+height:auto;
+margin:0 auto;
+margin-top:30px;
+position:relative;
+}
+#header
+{
+width:841px;
+height:146px;
+background-color:#7e8a00;
+font-family:Arial, Helvetica, sans-serif;
+font-size:45px;
+font-weight:bold;
+color:#FFFFFF;
+text-align:center;
+padding-top:60px;
+}
+.navi
+{
+width:841px;
+height:33px;
+background-color:#596200;
+}
+
+/*Header Portion End*/
+
+/*First Div begin*/
+
+#first
+{
+width:841px;
+height:auto;
+margin-top:25px;
+position:relative;
+}
+.info
+{
+width:781px;
+height:auto;
+margin:0 auto;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+color:#000000;
+line-height:19px;
+}
+.address_area
+{
+width:781px;
+height:165px;
+margin:0 auto;
+margin-top:25px;
+}
+.address
+{
+width:344px;
+height:165px;
+float:left;
+border:solid 1px #000000;
+}
+.address_value
+{
+width:434px;
+height:165px;
+float:left;
+border-bottom:#000000 solid 1px;
+border-top:#000000 solid 1px;
+border-right:#000000 solid 1px;
+background-color:#7e8a00;
+}
+.add_txtarea
+{
+width:420px;
+height:154px;
+background-color:#7e8a00;
+border:none;
+color:#FFFFFF;
+padding:3px 5px 5px 3px;
+}
+.address_txt
+{
+width:auto;
+height:auto;
+float:left;
+margin-top:11px;
+margin-left:11px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+color:#000000;
+font-weight:bold;
+}
+.seller_area
+{
+width:781px;
+height:35px;
+margin:0 auto;
+margin-top:25px;
+}
+.seller
+{
+width:344px;
+height:35px;
+float:left;
+border:solid 1px #000000;
+}
+.seller_value
+{
+width:434px;
+height:35px;
+float:left;
+border-bottom:#000000 solid 1px;
+border-top:#000000 solid 1px;
+border-right:#000000 solid 1px;
+background-color:#7e8a00;
+}
+.seller_txt
+{
+width:auto;
+height:auto;
+float:left;
+margin-top:9px;
+margin-left:11px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+color:#000000;
+font-weight:bold;
+}
+.seller_txtarea
+{
+width:410px;
+height:26px;
+background-color:#7e8a00;
+border:none;
+color:#FFFFFF;
+padding:3px 5px 5px 3px;
+}
+.about_form
+{
+width:781px;
+height:35px;
+margin:0 auto;
+margin-top:50px;
+background-color:#596200;
+border:solid 1px #000000;
+}
+.about_heading
+{
+width:auto;
+height:auto;
+float:left;
+margin-top:10px;
+margin-left:11px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+color:#ffffff;
+font-weight:bold;
+}
+.about_txt
+{
+width:761px;
+height:auto;
+margin:0 auto;
+border-bottom:#000000 solid 1px;
+border-left:#000000 solid 1px;
+border-right:#000000 solid 1px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+color:#000000;
+padding:10px;
+}
+
+/*First Div End*/
+
+/*Second Div begin*/
+
+#second
+{
+width:841px;
+height:auto;
+margin-top:50px;
+position:relative;
+}
+.main_head
+{
+width:841px;
+height:50px;
+float:left;
+background-color:#7e8a00;
+margin-bottom:25px;
+}
+.main_txt
+{
+width:auto;
+height:auto;
+float:left;
+margin-top:15px;
+margin-left:15px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:20px;
+color:#ffffff;
+font-weight:bold;
+}
+.property
+{
+width:781px;
+height:37px;
+margin:0 auto;
+margin-top:25px;
+background-color:#596200;
+clear:both;
+}
+.property2
+{
+width:781px;
+height:37px;
+margin:0 auto;
+background-color:#596200;
+clear:both;
+}
+.property_txt
+{
+width:auto;
+height:auto;
+float:left;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+color:#ffffff;
+padding: 11px 0 0 11px;
+font-weight:bold;
+
+}
+.pro_value
+{
+width:781px;
+height:auto;
+margin:0 auto;
+clear:both;
+}
+
+.table_class {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 9pt; MARGIN-BOTTOM: 0px; COLOR: #000000; LINE-HEIGHT: 17px; FONT-FAMILY: Arial Unicode MS,Myriad,ms sans-serif,Helvetica, Arial, sans-serif; BORDER-COLLAPSE: collapse
+}
+.table_class TD {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 7px; PADDING-LEFT: 10px; PADDING-BOTTOM: 7px; BORDER-LEFT:  #000000 1px solid; PADDING-TOP: 7px; BORDER-BOTTOM:  #000000 1px solid; BORDER-TOP:  #000000 1px solid
+}
+.table_class2 {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 9pt; MARGIN-BOTTOM: 30px; COLOR: #505254; LINE-HEIGHT: 17px; FONT-FAMILY: Arial Unicode MS,Myriad,ms sans-serif,Helvetica, Arial, sans-serif; BORDER-COLLAPSE: collapse
+}
+.table_class2 TR {
+	BORDER-RIGHT: #d7e6ea 1px solid; PADDING-RIGHT: 7px; PADDING-LEFT: 10px; PADDING-BOTTOM: 7px; BORDER-LEFT: #d7e6ea 1px solid; PADDING-TOP: 7px; BORDER-BOTTOM: #d7e6ea 1px solid
+}
+.table_class2 TD {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 10px; PADDING-BOTTOM: 7px; PADDING-TOP: 7px;
+}
+.table_border {
+	BORDER-RIGHT: #ffffff 0px solid; BORDER-TOP: #ffffff 0px solid; FONT-SIZE: 9pt; BORDER-LEFT: #ffffff 0px solid; COLOR: #434343; LINE-HEIGHT: 17px; BORDER-BOTTOM: #ffffff 1px solid; FONT-FAMILY: Arial Unicode MS,Myriad,ms sans-serif,Helvetica, Arial, sans-serif; BORDER-COLLAPSE: collapse
+}
+.table_border TD {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 10px; PADDING-BOTTOM: 7px; PADDING-TOP: 7px
+}
+.table_new TD TABLE{
+border:none;
+}
+.tbl_bor{
+border:0px;
+}
+
+/*Second Div end*/
+
+/*third Div begin*/
+
+#third
+{
+width:841px;
+height:auto;
+margin-top:50px;
+}
+#fourth
+{
+width:841px;
+height:auto;
+margin-top:50px;
+}
+#fifth
+{
+width:841px;
+height:auto;
+margin-top:50px;
+}
+#sixth
+{
+width:841px;
+height:auto;
+margin-top:50px;
+}
+
+.table_class tr td table tr td{
+border:none;
+padding:0px;
+
+}
+.space
+{
+line-height:3px;
+}
+
+/*Sales statement page*/
+#header2
+{
+width:831px;
+height:45px;
+background-color:#7e8a00;
+font-family:Arial, Helvetica, sans-serif;
+font-size:20px;
+font-weight:bold;
+color:#FFFFFF;
+padding-top:20px;
+padding-left:10px;
+}
+.info2
+{
+width:500px;
+height:150px;
+margin:0 auto;
+border: solid 1px #000000;
+}
+.info3
+{
+width:831px;
+height:auto;
+margin:0 auto;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+color:#000000;
+line-height:19px;
+margin-top:25px;
+}
+.property2
+{
+width:831px;
+height:37px;
+margin:0 auto;
+background-color:#596200;
+clear:both;
+}
+.pro_value2
+{
+width:831px;
+height:auto;
+margin:0 auto;
+clear:both;
+}
