@@ -1,5 +1,5 @@
 <?php
-
+"ssss";
  $sale=$_REQUEST['sale'];
  $Flat=$_POST['checkbox_Flat'];
  $House=$_POST['checkbox_Hou'];
